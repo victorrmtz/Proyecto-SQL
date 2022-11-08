@@ -43,13 +43,15 @@
 
 ## 🗺️ MIS EXTRAS
 
-    Creo las tablas(STAFF, CUSTOMER Y STORE) y le añadimos algunos datos para posterior comprobación de resultados.
+    Creo las tablas(STAFF, CUSTOMER Y STORE) y le añadimos algunos datos para posterior 
+    comprobación de resultados.
 
     Posteriormente relacionamos estas 3 trablas con la base de datos.
 
     CREACIÓN DE MAPA CON PUNTOS GEOGRAFICOS(Mapa.ipynb)
 
-    Vamos a pintar a continuación un mapa con las localizaciones de las dos tiendas que he añadido a la base de datos en la tabla STORE.
+    Vamos a pintar a continuación un mapa con las localizaciones de las dos tiendas 
+    que he añadido a la base de datos en la tabla STORE.
 ![store](/img/loc1.jpg)
     
     Seguimos añadiendi la columna con el punto geo_loc con la latitud y la longitud
